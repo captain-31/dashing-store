@@ -1,4 +1,4 @@
-# ecommerce-store
+# dashing-store
 This is a simple E-commerce web application built using core PHP, MySQL and Bootstrap. 
 
 ## INSTRUCTIONS
