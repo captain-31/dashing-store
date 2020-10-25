@@ -16,3 +16,6 @@ This is a simple E-commerce web application built using core PHP, MySQL and Boot
     password - Ram@12345
 	* email_id - mark@gmail.com<br>
 	  password - Mark@12345
+
+## Screenshots
+Please refer [this file](https://drive.google.com/file/d/1aQv1wbguMdF_CEqw6foNWXeBrRTxLlDO/view?usp=sharing) for the screenshots.
